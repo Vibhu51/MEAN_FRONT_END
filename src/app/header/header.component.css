@@ -1,0 +1,21 @@
+a{
+    text-decoration: none;
+    transition: all 0.5s ease-in-out;
+    color: white;
+}
+
+.spacer{
+    flex: 1 1 auto;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.active{
+    color: orange;
+    border-bottom: 1px solid orange;
+}
